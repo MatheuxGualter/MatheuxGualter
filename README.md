@@ -1,13 +1,3 @@
-<h1 align="center">Olá! Eu sou o Matheus Gualter 👋</h1>
-
-<p align="center">
-  <a href="https://github.com/MatheuxGualter">
-    <img src="https://img.shields.io/github/followers/MatheuxGualter?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</p>
-
----
-
 ### 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Sistemas de Informação** na Universidade Federal de Uberlândia (UFU)
