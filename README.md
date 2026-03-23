@@ -22,10 +22,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-### 📊 Estatísticas do GitHub
-
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuxGualter&layout=compact&langs_count=10&theme=tokyonight" />
 </p>
