@@ -3,7 +3,7 @@
 - 🎓 Estudante de **Sistemas de Informação** na Universidade Federal de Uberlândia (UFU)
 - 📊 Apaixonado por **ciência, analise e engenharia de dados** 
 - 📚 Membro @petsi-ufu
-- 🧑‍💻 Intern @Kanastra-Tech
+
 ---
 
 ### 🚀 Tecnologias & Ferramentas
