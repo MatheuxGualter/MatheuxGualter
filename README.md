@@ -1,9 +1,8 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Sistemas de Informação** na Universidade Federal de Uberlândia (UFU)
-- 📊 Apaixonado por **engenharia de dados e desenvolvimento de software**
-- 📱 Criando apps mobile que resolvem problemas do dia a dia, como o [Kustho](https://github.com/MatheuxGualter/kustho)
-- 🏆 Campeão da **10ª Mostra de Software da FACOM TechWeek 2026** (UFU) com o Kustho
+- 📊 Apaixonado por **desenvolvimento de software e engenharia de dados**
+- 📱 Criando sistemas, sites e apps mobiles que resolvem problemas reais.
 - 📚 Membro @petsi-ufu
 
 ---
@@ -25,11 +24,11 @@
 **Mobile**
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
@@ -72,9 +71,9 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [💸 Kustho](https://github.com/MatheuxGualter/kustho) | 🏆 **Campeão da 10ª Mostra de Software (FACOM TechWeek 2026).** Gerenciador financeiro gratuito e offline-first para quem usa vários bancos: lê as notificações dos bancos e os comprovantes de Pix compartilhados e sugere cada lançamento para confirmar com um toque. Contas, cartões, faturas e parcelas. [Baixar para Android](https://github.com/MatheuxGualter/kustho/releases/latest) | TypeScript, React Native, Expo, Kotlin, SQLite |
-| [⛽ Posto Analytics](https://postoanalytics.com.br/) | Plataforma web (PWA) de dashboards para donos de postos de combustível e de redes de postos: 15 painéis — estoque e tanques, movimentação de combustíveis, preço de compra × venda, produtividade dos colaboradores, curva ABC e formas de pagamento — sincronizados automaticamente do sistema de gestão do posto (webPosto). Projeto privado — [acessar o site](https://postoanalytics.com.br/) | TypeScript, React, Vite, Tailwind CSS, ECharts, NestJS, Prisma, PostgreSQL, Redis, BullMQ, Docker |
-| [💰 Wolf-Wallet](https://github.com/MatheuxGualter/Wolf-Wallet) | Carteira virtual do PET-SI/UFU — Dashboard financeiro com integração ao Mercado Pago. [Acessar o app](https://wolf-wallet.streamlit.app/) | Python, Streamlit, PostgreSQL, Supabase |
-| [📱 StudyApp](https://github.com/MatheuxGualter/StudyApp) | Aplicativo Android de estudo com flashcards, repetição espaçada e verificação por IA (Trabalho de Dispositivos Móveis) | Kotlin, Android, Room DB, Firebase |
-| [✅ Gaia-List-Project](https://github.com/MatheuxGualter/Gaia-List-Project) | Sistema web de gerenciamento colaborativo de tarefas com controle de acesso por perfis (Trabalho final Dev Web 1 — UFU) | PHP, MySQL, Bootstrap, JavaScript |
-| [📊 Analise_Estatistica](https://github.com/MatheuxGualter/Analise_Estatistica) | Análise da relação entre área total e preço de imóveis em Bristol, Reino Unido | Python, Pandas, Matplotlib |
+| [💸 Kustho](https://github.com/MatheuxGualter/kustho) | 🏆 **Campeão da 10ª Mostra de Software — FACOM TechWeek 2026 (UFU).**<br>**Gerenciador financeiro que registra seus gastos quase sozinho.** Lê as notificações dos bancos e os comprovantes de Pix compartilhados e sugere cada lançamento para você confirmar com um toque. Contas, cartões, faturas e parcelas em um só lugar, gratuito e com os dados só no seu celular.<br>📥 [Baixar para Android](https://github.com/MatheuxGualter/kustho/releases/latest) | TypeScript, React Native, Expo, Kotlin, SQLite |
+| [⛽ Posto Analytics](https://postoanalytics.com.br/) | **Dashboards para donos de postos de combustível e redes de postos.** Transforma os dados do sistema de gestão do posto em 15 painéis atualizados automaticamente: estoque e tanques, combustíveis, preço de compra × venda, produtividade da equipe, curva ABC e formas de pagamento. Funciona no navegador e no celular (PWA).<br>🌐 [Acessar o site](https://postoanalytics.com.br/) · 🔒 código privado | TypeScript, React, Vite, Tailwind CSS, ECharts, NestJS, Prisma, PostgreSQL, Redis, BullMQ, Docker |
+| [💰 Wolf-Wallet](https://github.com/MatheuxGualter/Wolf-Wallet) | **Carteira virtual do PET-SI/UFU, com transparência para todos os membros.** Antes, o responsável pela conta do grupo no Mercado Pago baixava o extrato à mão e mandava no WhatsApp todo mês. Agora a sincronização com a API do Mercado Pago é automática e o dashboard mostra saldo, entradas, saídas e rendimentos do CDI dia a dia. Tem extrato com filtros e exportação, contas mensais com alerta de vencimento, login por perfis com painel de administração e auditoria de acessos, e funciona como app no celular (PWA).<br>🌐 [Acessar o app](https://wolf-wallet.streamlit.app/) | Python, Streamlit, PostgreSQL, Supabase, API Mercado Pago |
+| [📱 StudyApp](https://github.com/MatheuxGualter/StudyApp) | **App Android de estudos com flashcards e IA.** Cola um texto e o Gemini gera os flashcards; nas respostas digitadas, a IA confere se você acertou mesmo escrevendo diferente. As revisões seguem repetição espaçada (algoritmo SM-2), em quatro tipos de cartão: frente e verso, lacunas, digitação e múltipla escolha. Registra onde você estuda (GPS) e mostra gráficos de acerto e tempo de resposta por ambiente. Login e sincronização na nuvem com Firebase.<br>🎓 Trabalho de Dispositivos Móveis — UFU | Kotlin, Android, Room, Firebase, Gemini API, MPAndroidChart |
+| [✅ Gaia-List](https://github.com/MatheuxGualter/Gaia-List-Project) | **Gerenciador web de tarefas para equipes, com controle de acesso por perfil.** Três papéis: editor (gerencia tudo, inclusive os usuários), comentador (muda status e comenta) e visualizador (só leitura). Organiza as tarefas em listas, com filtros por status, busca instantânea (AJAX), comentários por tarefa e dashboard com os totais. Senhas com bcrypt e acesso ao banco por PDO.<br>🎓 Trabalho final de Desenvolvimento Web 1 — UFU | PHP, MySQL, Bootstrap, JavaScript |
+| [📊 Análise Estatística](https://github.com/MatheuxGualter/Analise_Estatistica) | **Quanto a área de um imóvel explica o seu preço?** App interativo que analisa imóveis reais de Bristol, Reino Unido, com limpeza rigorosa (só dados medidos, sem estimados) e remoção de outliers pelo método IQR. Usa correlação de Pearson e regressão linear: a área explica cerca de 44% da variação do preço. No fim, você informa uma área e o modelo estima o preço.<br>🎓 Trabalho final de Estatística — UFU | Python, Pandas, SciPy, Statsmodels, Plotly, Streamlit |
